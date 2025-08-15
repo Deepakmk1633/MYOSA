@@ -1,0 +1,6 @@
+Adafruit GFX Library
+Adafruit SSD1306
+Adafruit BMP085 Unified
+Adafruit APDS9960 Library
+MPU6050_light
+Wire
