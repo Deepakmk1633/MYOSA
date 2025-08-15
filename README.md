@@ -61,7 +61,7 @@ It helps people navigate back to safety in low-visibility emergencies (like fire
 ---
 
 ## 📂 Code
-The Arduino sketch (`fire_escape_guidance.ino`) contains:
+The Arduino sketch (`MYOSA.ino`) contains:
 - Setup of sensors and OLED
 - Step + turn simulation
 - Hazard detection and guidance sequence
