@@ -1,5 +1,4 @@
 // fire_escape_guidance.ino
-// Full Arduino code from earlier response with //* ... *// comment included
 
 #include <Wire.h>
 #include <Adafruit_SSD1306.h>
